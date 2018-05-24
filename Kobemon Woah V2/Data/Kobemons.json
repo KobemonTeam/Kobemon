@@ -1,0 +1,586 @@
+{
+    "all":
+    {
+        "Kobedex":
+        {
+            "Koby":
+            {
+            "health":32,
+            "type":["gay","abnormal"],
+            "desc":"Koby,the gay abnormal kobémon is nothing special. Move on.",
+            "special move":
+            {
+                "name":"Delusion",
+                "damage":16,
+                "damage-min":13,
+                "damage-max":18
+            },
+            "evolution":
+            {
+                "Level":8,
+                "Evolves":"Elijah"
+            },
+            "stat ranges":
+            {
+                "health-min":29,
+                "health-max":35,
+                "damage-min":10,
+                "damage-max":13
+            }
+            },
+
+            "Elijah":
+            {
+                "health":48,
+                "type":["gay","abnormal"],
+                "desc":"The evolution of Koby; Key quotes include 'Off now Kobe' and 'Whats for pudding'",
+                "special move":
+                {
+                    "name":"Off Now",
+                    "damage":27,
+                    "damage-min":22,
+                    "damage-max":30
+                },
+                "stat ranges":
+                {
+                    "health-min":44,
+                    "health-max":52,
+                    "damage-min":18,
+                    "damage-max":24
+                },
+                "evolution":
+                {
+                    "Level":14,
+                    "Evolves":"BTEC Walter White"
+                }
+            },
+
+            "BTEC Walter White":
+            {
+                "Health":77,
+                "type":["gay","abnormal"],
+                "desc":"The father of the two predeccesors; Is known to make meth under the house striking an uncanny resemblance to Walter White",
+                "special move":
+                {
+                    "name":"Meth Splash",
+                    "damage":42,
+                    "damage-min":37,
+                    "damage-max":46
+                },
+                "stat ranges":
+                {
+                    "health-min":69,
+                    "health-max":85,
+                    "damage-min":34,
+                    "damage-max":40
+                }
+
+            },
+
+
+            "Sam Burnn":
+            {
+            "health":38,
+            "type":["toxic"],
+            "desc":"Sam Burnn the Toxic type kobémon carries Kobés to masters until discovering their true deformities",
+            "special move":
+            {
+                "name":"Toxic Carry",
+                "damage":13,
+                "damage-min":11,
+                "damage-max":16
+            },
+            "stat ranges":
+            {
+                "health-min":35,
+                "health-max":42,
+                "damage-min":9,
+                "damage-max":12
+            },
+            "evolution":
+            {
+                "Level":8,
+                "Evolves":"GM Burnn"
+            }
+            },
+
+            "GM Burnn":
+            {
+            "health":58,
+            "type":["toxic"],
+            "desc":"GM Burn , the evolved version of Sam Burnn, is a highly skilled OW player adept at beating tables.",
+            "special move":
+            {
+                "name":"Table Smash",
+                "damage":23,
+                "damage-min":19,
+                "damage-max":26
+            },
+            "stat ranges":
+            {
+                "health-min":53,
+                "health-max":64,
+                "damage-min":16,
+                "damage-max":22
+
+            },
+            "evolution":
+            {
+                "Level":14,
+                "Evolves":"Papi Jeff"
+            }
+            },
+
+            "Papi Jeff":
+            {
+            "health":94,
+            "type":["toxic"],
+            "desc":"Papi Jeff has ascended to new levels oh look it has cute bunny ears :)",
+            "special move":
+            {
+                "name":"Nerf Or Nothing",
+                "damage":35,
+                "damage-min":30,
+                "damage-max":39
+            },
+            "stat ranges":
+            {
+                "health-min":85,
+                "health-max":98,
+                "damage-min":30,
+                "damage-max":36
+            }
+            },
+
+
+            "Jerry":
+            {
+            "health":29,
+            "type":["stable"],
+            "desc":"Jerry, the stable type kobémon, is the greatest man I knew. #RIPJerry",
+            "special move":
+            {
+                "name":"Green dash",
+                "damage":19,
+                "damage-min":17,
+                "damage-max":23
+            },
+            "evolution":
+            {
+                "Level":9,
+                "Evolves":"Jerry in a pot"
+            },
+            "stat ranges":
+            {
+                "health-min":26,
+                "health-max":33,
+                "damage-min":12,
+                "damage-max":15
+            }         
+            },
+
+            "Jerry in a pot":
+            {
+                "health":41,
+                "type":["stable"],
+                "desc":"Jerry first came from this pot of oddly stirred chemicals. Make sure to wear goggles!",
+                "special move":
+                {
+                    "name":"Flake smash",
+                    "damage":33,
+                    "damage-min":29,
+                    "damage-max":37
+                },
+                "evolution":
+                {
+                    "Level":15,
+                    "Evolves":"Copper Jerry"
+                },
+                "stat ranges":
+                {
+                    "health-min":36,
+                    "health-max":44,
+                    "damage-min":21,
+                    "damage-max":26
+
+                }
+            },
+
+            "Copper Jerry":
+            {
+                "health":67,
+                "type":["stable"],
+                "desc":"You now have copper sulphate crystals. Dont eat these unless you want to pump your stomach. Hey theres an idea!",
+                "special move":
+                {
+                    "name":"Digestion Killer",
+                    "damage":55,
+                    "damage-min":50,
+                    "damage-max":59
+                },
+                "stat ranges":
+                {
+                    "health-min":62,
+                    "health-max":71,
+                    "damage-min":40,
+                    "damage-max":44
+                }
+            },
+
+            "Jake O'fool":
+            {
+            "health":33,
+            "type":["abnormal"],
+            "desc":"Jake O'fool is a Kobé with many a variant. Watch out for that tail!",
+            "special move":
+            {
+                "name":"Bamboozle",
+                "damage":16,
+                "damage-min":13,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":29,
+                "health-max":36,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Lake O'drool":
+            {
+            "health":37,
+            "type":["snow"],
+            "desc":"Lake O'drool is quite the character. It's known to jump in puddles to make people wet!",
+            "special move":
+            {
+                "name":"Splash Back",
+                "damage":14,
+                "damage-min":11,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":34,
+                "health-max":41,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Blake O'fuel":
+            {
+            "health":31,
+            "type":["spicy"],
+            "desc":"Blake O'fuel is quite the fiery character!Its doritos fueled blaze is lethal.Watch out!",
+            "special move":
+            {
+                "name":"Dorito Fire",
+                "damage":18,
+                "damage-min":15,
+                "damage-max":20
+            },
+            "stat ranges":
+            {
+                "health-min":28,
+                "health-max":33,
+                "damage-min":11,
+                "damage-max":14
+            }
+            },
+
+            "Drac O'cruel":
+            {
+            "health":33,
+            "type":["dank"],
+            "desc":"Drac O'cruel is not the nicest tool in the shed!",
+            "special move":
+            {
+                "name":"Rude Slash",
+                "damage":16,
+                "damage-min":13,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":29,
+                "health-max":36,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Slate O'haul":
+            {
+            "health":37,
+            "type":["sled"],
+            "desc":"Slate O'haul the sled type is known to cross difficult terrain with ease.",
+            "special move":
+            {
+                "name":"Sled Hammer",
+                "damage":14,
+                "damage-min":11,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":34,
+                "health-max":41,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Rake O'fall":
+            {
+            "health":31,
+            "type":["park"],
+            "desc":"Rake O'fall likes to clean up after others. Why dont you help?",
+            "special move":
+            {
+                "name":"Rake Snake",
+                "damage":18,
+                "damage-min":15,
+                "damage-max":20
+            },
+            "stat ranges":
+            {
+                "health-min":28,
+                "health-max":33,
+                "damage-min":11,
+                "damage-max":14
+            }
+            },
+
+            "State O'small":
+            {
+            "health":33,
+            "type":["stable"],
+            "desc":"State O'small is a tiny little Kobé with a lot of matter. Don't crush it too much.",
+            "special move":
+            {
+                "name":"Condense",
+                "damage":16,
+                "damage-min":13,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":29,
+                "health-max":36,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Hate O'mall":
+            {
+            "health":37,
+            "type":["toxic"],
+            "desc":"Hate O'mall is definitely not friendly; Which contrasts the other Jake types.",
+            "special move":
+            {
+                "name":"Toxic Fury",
+                "damage":14,
+                "damage-min":11,
+                "damage-max":17
+            },
+            "stat ranges":
+            {
+                "health-min":34,
+                "health-max":41,
+                "damage-min":10,
+                "damage-max":14
+            }
+            },
+
+            "Mate O'jewel":
+            {
+            "health":31,
+            "type":["gay"],
+            "desc":"This gay Jake is quite the blinging type. Some would say a flex offender.",
+            "special move":
+            {
+                "name":"Jewel Hug",
+                "damage":18,
+                "damage-min":15,
+                "damage-max":20
+            },
+            "stat ranges":
+            {
+                "health-min":28,
+                "health-max":33,
+                "damage-min":11,
+                "damage-max":14
+            }
+            },
+
+            "Fake O'maul":
+            {
+            "health":31,
+            "type":["crazy"],
+            "desc":"Stay far far away from this one. It's looks may be enticing but it is not a nice guy!",
+            "special move":
+            {
+                "name":"Maul em all",
+                "damage":18,
+                "damage-min":15,
+                "damage-max":20
+            },
+            "stat ranges":
+            {
+                "health-min":28,
+                "health-max":33,
+                "damage-min":11,
+                "damage-max":14
+            }
+            },
+
+
+            "Kobelet":
+            {
+                "health":28,
+                "type":["sled"],
+                "desc":"These innocent little Kobés like to dig around and have fun; Be careful though,they get aggressive!",
+                "special move":
+                {
+                    "name":"disappear",
+                    "damage":15
+                },
+                "evolution":
+                {
+                    "Level":9,
+                    "Evolves":"Kobetrio"
+                }
+            },
+
+            "Kobetrio":
+            {
+                "health":46,
+                "type":["sled"],
+                "desc":"When Kobelets get together they can be quite dangerous! Watch your step around these critters!",
+                "special move":
+                {
+                    "name":"Sled trap",
+                    "damage":25
+                },
+                "evolution":
+                {
+                    "Level":19,
+                    "Evolves":"Hydrakobe"
+                }
+            },
+
+            "Hydrakobe":
+            {
+                "health":87,
+                "type":["sled","dank"],
+                "desc":"This nine headed Kobé is quite the foe. Each head is said to be one chromosome",
+                "special move":
+                {
+                    "name":"Delude",
+                    "damage":43
+                }
+            },
+
+            "Daboran":
+            {
+                "health":32,
+                "type":["spicy"],
+                "desc":"Daboran and whiporan go way back! Daboran is known for its cool dance moves. Try em out!",
+                "special move":
+                {
+                    "name":"Dab Slap",
+                    "damage":18,
+                    "damage-min":14,
+                    "damage-max":22
+                },
+                "stat ranges":
+                {
+                    "health-min":27,
+                    "health-max":33,
+                    "damage-min":12,
+                    "damage-max":14
+                }
+            },
+
+            "McBrero":
+            {
+                "health":30,
+                "type":["spicy","park"],
+                "desc":"This saucy little sombrero likes to travel around. It's hair is said to be made of fries",
+                "special move":
+                {
+                    "name":"Sombrero Dance",
+                    "damage":20,
+                    "damage-min":16,
+                    "damage-max":23
+                },
+                "stat ranges":
+                {
+                    "health-min":26,
+                    "health-max":33,
+                    "damage-min":13,
+                    "damage-max":15
+                }
+            },
+
+            "Litsuke":
+            {
+            "health":49,
+            "type":["crazy","toxic"],
+            "desc":"Litsuke. I don't know what else to say.",
+            "special move":
+            {
+                "name":"Fire kawaii tase",
+                "damage":25,
+                "damage-min":21,
+                "damage-max":29
+            },
+            "stat ranges":
+            {
+                "health-min":45,
+                "health-max":53,
+                "damage-min":15,
+                "damage-max":19
+            },
+            "evolution":
+            {
+                "Level":18,
+                "Evolves":"BUFFSUKI"
+            }
+            },
+
+            "BUFFSUKI":
+            {
+                "Health":74,
+                "type":["gay","abnormal"],
+                "desc":"The father of the two predeccesors; Is known to make meth under the house striking an uncanny resemblance to Walter White",
+                "special move":
+                {
+                    "name":"Meth Splash",
+                    "damage":45,
+                    "damage-min":39,
+                    "damage-max":49
+                },
+                "stat ranges":
+                {
+                    "health-min":69,
+                    "health-max":77,
+                    "damage-min":36,
+                    "damage-max":42
+                }
+
+            }
+
+
+
+        }
+
+
+
+    }
+
+}
+

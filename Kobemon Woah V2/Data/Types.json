@@ -1,0 +1,154 @@
+{
+	"abnormal": 
+	{
+		"effective":
+		[
+			"toxic",
+			"spicy"
+		],
+
+		"uneffective":
+		[
+			"stable",
+			"gay"			
+		]
+	},
+
+	"stable":
+	{
+		"effective":
+		[
+			"abnormal",
+			"dank"
+		],
+
+		"uneffective":
+		[
+			"toxic",
+			"park"
+		]
+	},
+
+	"toxic":
+	{
+		"effective":
+		[
+			"stable",
+			"crazy"
+		],
+
+		"uneffective":
+		[
+			"abnormal",
+			"spicy"
+		]
+	},
+
+	"gay":
+	{
+		"effective":
+		[
+			"toxic",
+			"stable",
+			"crazy"
+		],
+
+		"uneffective":
+		[
+			"abnormal",
+			"dank"
+		]
+	},
+
+	"sled":
+	{
+		"effective":
+		[
+			"snow",
+			"toxic"
+		],
+
+		"uneffective":
+		[
+			"park",
+			"crazy"
+		]
+	},
+
+	"crazy":
+	{
+		"effective":
+		[
+			"abnormal",
+			"stable"
+		],
+
+		"uneffective":
+		[
+			"dank",
+			"gay"
+		]
+	},
+
+	"dank":
+	{
+		"effective":
+		[
+			"park",
+			"gay",
+			"sled"
+		],
+
+		"uneffective":
+		[
+			"spicy",
+			"snow"
+		]
+	},
+
+	"spicy":
+	{
+		"effective":
+		[
+			"park",
+			"gay"
+		],
+
+		"uneffective":
+		[
+			"sled",
+			"snow"
+		]
+	},
+
+	"snow":
+	{
+		"effective":
+		[
+			"spicy",
+			"dank",
+			"sled"
+		],
+
+		"uneffective":
+		[
+			"toxic",
+			"crazy"
+		]
+	},
+
+	"park":
+	{
+		"effective":
+		[
+			"abnormal",
+			"snow"
+		],
+
+		"uneffective":
+		[
+			"sled",
+			"stable"
+		]
+	}
+}
