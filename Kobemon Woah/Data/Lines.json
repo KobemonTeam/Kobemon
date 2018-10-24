@@ -1,0 +1,125 @@
+{
+	"Intro":
+	{
+		"IntroL1":"?:Hello there adventurer!\nIm Professor Lowe and welcome to the not so wonderful world of Kobémon!",
+		"IntroL2":"Professor Lowe:There's loads of adventures to be had here;\nYou'll get your own Kobémon and get to catch more!",
+		"IntroL3":"Professor Lowe:Let's get started!!!",
+		"IntroL4":"Professor Lowe:Now tell me again.\nWhat was your name?"	
+	},
+	"Start":
+	{
+		"StartL1":"Professor Lowe:Ah, thats right it's {}",
+		"StartL2":"Professor Lowe:Well lets not waste any time eh!",
+		"StartL3":"Professor Lowe:Its time to choose your starting\nKobémon!"
+	},
+	"Begin":
+	{
+		"BeginL1":"Professor Lowe:Oh, I see you chose {}!",
+		"BeginL2":"Professor Lowe:Im sure he will make a fine companion for you!",
+		"BeginL3":"Professor Lowe:Now listen here young one!",
+		"BeginL4":"Professor Lowe:Your very own Kobémon adventure is about to start!"
+	},
+	"Home":
+	{
+		"HomeL1":"Mom:{} come down here right now!",
+		"HomeL2":"Mom:Look I know that since your dad left it's been hard;",
+		"HomeL3":"Mom:You always need to be careful with\nwhat you do.",
+		"HomeL4":"Mom:Now I suppose its about time.",
+		"HomeL5":"Mom:I guess you'll need these:",
+		"HomeL6":"{} recieved running shoes!",
+		"HomeL7":"Mom:Wait nevermind no you don't.",
+		"HomeL8":"{} lost running shoes!"
+	},
+	"Battle1":
+	{
+		"Battle1L1":"Sock:HA! Stop right there!",
+		"Battle1L2":"Sock:You're not going anywhere without\ngiving your good pal",
+		"Battle1L3":"Sock:a quick Kobémon battle!",
+		"Battle1L4":"Sock:LET'S BATTLE!!"
+	},
+	"PostSock1":
+	{
+		"PS1":"Sock's mom:Sock!!Come Sock!!Sock I told you\nnot to fight with that Kobémon!",
+		"PS2":"Sock's mom:Urgh get here right now!!"
+	},
+	"Route1":
+	{
+		"Route1":"Professor Lowe:Oh.... {} I've been trying to catch up with you!",
+		"Route2":"Professor Lowe:But my ankles dont work like they used to;\nWhat a shame it is!",
+		"Route3":"Professor Lowe:Anyway besides the point.",
+		"Route4":"Professor Lowe:I'm going to show you\nhow to catch a Kobémon!",
+		"Route5":"Professor Lowe:Now if only I could find one around here...",
+		"Route6":"Professor Lowe:Oh! Here we go!!"
+	},
+	"OFoolLines":
+	{
+		"OFool1":"Professor Lowe:Oh my {}!",
+		"OFool2":"Professor Lowe:You caught a Jake O'fool!!!",
+		"OFool3":"Professor Lowe:That's an incredibly rare Kobémon!\nLuckily I have just the thing for you!!",
+		"OFool4":"Professor Lowe:Try out one of these stones\nif you want a special type\nfor it!"
+	},
+	"ChoseLines":
+	{
+		"Chose1":"Professor Lowe:Well there you have it!",
+		"Chose2":"Professor Lowe:Your second Kobémon!!",
+		"Chose3":"Professor Lowe:{} remember to look after your Kobés well!",
+		"Chose4":"Professor Lowe:After all; A happy Kobé is a powerful one.",
+		"Chose5":"Professor Lowe:Anyway, I better get going.",
+		"Chose6":"Professor Lowe:Wait!",
+		"Chose7":"Professor Lowe:Oh! I almost forgot!",
+		"Chose8":"Professor Lowe:You're gonna need these:",
+		"Chose9":"{} recieved Kobédex!",
+		"Chose10":"{} recieved 10 bowls of ramen!",
+		"Chose11":"Professor Lowe:Well, now that you have that I suppose you'll wanna travel around!",
+		"Chose12":"Professor Lowe:If you go through Route 1 and then through the Mysterious Cave-ity you'll reach Nunnsville!",
+		"Chose13":"Professor Lowe:There's a gym there but more importantly you might want to sign up to the chess club!",
+		"Chose14":"Professor Lowe:Anyway thats just my advice; I once had a student who never followed my advice!",
+		"Chose15":"Professor Lowe:He ended up spilling sugar water on someone!!",
+		"Chose16":"Professor Lowe:Absolutely outrageous!\nWell I bet he hasn't gotten very far in life!",
+		"Chose17":"Professor Lowe:Oh god how long have I been speaking for!!",
+		"Chose18":"Professor Lowe:I best get going; my ankles wont carry me much more!!",
+		"Chose19":"Professor Lowe:See you around {}!"
+	},
+	"MysteriousLines":
+	{
+		"Mysterious1":"You enter the Mysterious Cave-ity.\nIt feels damp yet warm.",
+		"Mysterious2":"?:Oh hey!You must be {} right?\nIm Mr Nunn. Nunnsville gym leader.",
+		"Mysterious3":"Mr Nunn:Well this is the Mysterious Cave-ity I've been studying.",
+		"Mysterious4":"Mr Nunn:I imagine you'll want to come get the Nunnsville gym badge but I've got bigger matters to attend to.",
+		"Mysterious5":"Mr Nunn:I have to dig deeper into whats happening here. You go ahead and join the chess club.",
+		"Mysterious6":"Mr Nunn:Ah, the Pheasey Fazbears. What a team. You might have to beat someone to get in but you'll have no issues with that.",
+		"Mysterious7":"Mr Nunn:Then play some chess and see what I can do for you!",
+		"Mysterious8":"Mr Nunn:I'll catch you around good sire!"
+	},
+	"Nunnsville1Lines":
+	{
+		"Nunnsville1":"Receptionist:Oh, sorry theres been a problem...",
+		"Nunnsville2":"Receptionist:Someone else just joined and theres no more space...",
+		"Nunnsville3":"Receptionist:Wait I've got an idea!",
+		"Nunnsville4":"Receptionist:Battle them for the last spot in chess club!!"
+	},
+	"ChessClubLines":
+	{
+		"ChessClub1":"Receptionist:Hey you won!\nNow you're part of the Pheasey Fazbears!",
+		"ChessClub2":"Receptionist:Go speak to Finlay. He's the head of the team.",
+		"ChessClub3":"Finlay:Hey there {}! I see you're the newest member.",
+		"ChessClub4":"Finlay:Luckily for you we have a chess tournament right now!",
+		"ChessClub5":"Finlay:Go and hop right in!...",
+		"ChessClub6":"Finlay:After you beat me in a quick Kobémon battle!"
+
+	},
+	"PostFinlayLines":
+	{
+		"PostFinlay1":"Finlay:Ha!Good fight!Go on in.",
+		"PostFinlay2":"After long grueling hours of chess you make it to the final...",
+		"PostFinlay3":"Announcer:UPPPPP NEXTTTTTT!It's {} versus Grant!!!!!!In.The.FINAL!",
+		"PostFinlay1":"Grant:Hey.You look exactly like my dad!",
+		"PostFinlay3":"Grant:A lot like my dad....",
+		"PostFinlay4":"Grant:Wait you're his son!!You're {} right??",
+		"PostFinlay5":"Grant:OMG!You're dad i-i-s th-the Kobémon champion!"
+	}
+
+	
+	
+
+}
